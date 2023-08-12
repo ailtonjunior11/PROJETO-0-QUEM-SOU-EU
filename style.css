@@ -1,0 +1,80 @@
+body {
+
+    background-image: linear-gradient(to right, rgb(96, 223, 174), rgb(210, 226, 226));
+
+}
+
+h1 {
+
+    font-family: 'Oswald';
+    font-size: 33px;
+    margin-left: 20px;
+
+}
+
+h2 {
+
+    font-family: 'Oswald';
+    margin-left: 20px;
+    font-size: 28px;
+
+}
+
+p {
+
+    font-family: 'Oswald';
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.div1 {
+
+    background-image: linear-gradient(to left, rgb(96, 223, 174), rgb(210, 226, 226));
+    width: 450px;
+    padding: 30px;
+    border-radius: 20px;
+    margin-left: 20px;
+    font-family: 'Oswald';
+
+
+}
+
+
+a {
+
+    font-family: 'Oswald';
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+
+.div2 {
+
+
+    background-image: linear-gradient(to left, rgb(96, 223, 174), rgb(210, 226, 226));
+    width: 450px;
+    padding: 30px;
+    border-radius: 20px;
+    margin-left: 20px;
+    font-family: 'Oswald';
+
+}
+
+img {
+
+    display: block;
+    width: 400px;
+    border-radius: 8px;
+    border: 1px solid white;
+    margin-left: 20px;
+
+}
+
+
+
+h4 {
+
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: 'Oswald';
+}
